@@ -1,4 +1,4 @@
-#yayyy
+#yayy
 
 
 import settings
